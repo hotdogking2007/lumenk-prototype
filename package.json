@@ -1,0 +1,11 @@
+{
+  "name": "lumenk-prototype",
+  "version": "0.0.1",
+  "description": "prototype of lumenk programming language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hotdogking2007",
+  "license": "MIT"
+}
